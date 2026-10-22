@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table td {
+    border:none
+}
+table .fekete {
+    background-color: black;
+    color: white;
+}
+table .fehér {
+    background-color: white;
+    color: black;
+}
+table .piros {
+    background-color: red;
+}

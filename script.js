@@ -4,7 +4,7 @@ const API_URL = 'https://retoolapi.dev/K6LmSF/data';
 
 async function init(){
 const response = await fetch(API_URL);
-console.log("header-ök letölteve")
+
 
 const adatok = await response.json();
 
